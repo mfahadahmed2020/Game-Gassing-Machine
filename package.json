@@ -1,0 +1,23 @@
+{
+  "name": "project-no-3-atm",
+  "version": "1.0.1",
+  "description": "",
+  "main": "atm.js",
+  "type": "module",
+  "bin": {
+    "project-no-3-atm": "atm.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/jquery": "^3.5.29"
+  }
+}
